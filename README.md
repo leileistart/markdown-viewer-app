@@ -24,7 +24,7 @@
   <strong>Markdown 阅览室</strong> — 专为阅读而生，给你最美观的 Markdown 阅读体验。
 </p>
 <p align="center">
-  打开即用，双击运行，无需安装，仅 <strong>88 MB</strong>。
+  <strong>Tauri 轻量版仅 2.4 MB</strong> · Electron 便携版 88 MB
 </p>
 
 ---
@@ -88,7 +88,12 @@
 
 ### 方式一：直接下载（推荐）
 
-前往 [Releases](https://github.com/leileistart/markdown-viewer-app/releases) 下载最新的 `.exe` 文件，**双击直接运行，无需安装**。
+前往 [Releases](https://github.com/leileistart/markdown-viewer-app/releases) 下载最新版本：
+
+| 版本 | 大小 | 说明 |
+|------|------|------|
+| **Tauri 轻量版** (推荐) | **2.4 MB** | 双击安装，使用系统 WebView2，需 Windows 10/11 |
+| Electron 便携版 | 88 MB | 双击直接运行，无需安装，无需任何依赖 |
 
 ### 方式二：从源码构建
 
